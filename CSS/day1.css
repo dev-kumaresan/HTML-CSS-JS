@@ -25,7 +25,7 @@ body{
     flex:0.5;
     margin : 10px;
     position: relative;
-    transition: flex 0.7s ease;
+    transition: flex 0.7s ease-in;
 }
 .panel h4{
     font-size: 24px;
@@ -36,10 +36,10 @@ body{
     opacity: 0;
 }
 .panel.active{
-    flex:5;
+    flex: 5;
 }
 .panel.active h4{
-    opacity:1;
+    opacity: 1;
     transition : opacity 0.3s ease-in 0.4s;
 }
 @media(max-width:480px){
