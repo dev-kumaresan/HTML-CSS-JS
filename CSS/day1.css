@@ -20,4 +20,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     height : 80vh;
+    border-radius : 50px;
+    cursor : pointer;
+    flex:0.5;
 }
