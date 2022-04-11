@@ -23,4 +23,5 @@ body{
     border-radius : 50px;
     cursor : pointer;
     flex:0.5;
+    margin : 10px;
 }
