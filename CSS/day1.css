@@ -36,5 +36,11 @@ body{
     opacity: 0;
 }
 .panel.active{
+    flex:5;
+}
+.panel.active h4{
+    opacity:1;
+}
+@media(max-width:480px){
     
 }
