@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 *{
     box-sizing : border-box;
 }
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Muli',sans-serif;
     display : flex;
     align-items: center;
     justify-content: center;
