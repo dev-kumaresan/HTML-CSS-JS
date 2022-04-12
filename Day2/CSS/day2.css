@@ -9,6 +9,7 @@ body{
     height: 100vh;
     overflow: hidden;
     margin : 0;
+    color:#fff;
 }
 .container{
     text-align: center;
@@ -20,4 +21,15 @@ body{
     margin-bottom: 30px;
     max-width: 100%;
     width : 350px;
+}
+.progress{
+    background-color: #343434;
+    position: absolute;
+    top : 50%;
+    left : 0;
+    transform: translateY(-50%);
+    height : 4px;
+    width : 50%;
+    z-index:-1;
+    transition: 0.4s ease;
 }
