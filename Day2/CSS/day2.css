@@ -1,5 +1,5 @@
 :root{
-    --line-border-fill : #343434;
+    --line-border-fill : hsl(216, 77%, 41%);
     --line-border-empty : #e0e0e0;
 }
 *{
