@@ -1,3 +1,5 @@
 # 50 concepts in 50 days
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day1"> Day 1</a> demo -</b><br>
-https://user-images.githubusercontent.com/100152824/162898936-f7b17141-e988-4619-b266-deda2d37cb8f.mp4
+<video width="400" controls>
+  <source src="https://user-images.githubusercontent.com/100152824/162899698-8d15c056-4cc9-4a4a-a4cc-b678fd7e8828.mp4" type="video/mp4">
+</video>
