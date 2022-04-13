@@ -2,6 +2,7 @@
     box-sizing : border-box;
 }
 body{
+    background-image: linear-gradient(90deg, rgb(219, 215, 221), rgb(219, 215, 221));
     font-family: 'Times New Roman', Times, serif;
     display : flex;
     align-items: center;
