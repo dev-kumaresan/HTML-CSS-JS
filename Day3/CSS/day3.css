@@ -12,3 +12,13 @@ body{
     margin : 0;
     color:rgb(26, 23, 23);
 }
+.search{
+    position: relative;
+    height: 50px;
+
+}
+.search .input{
+    background-color: #fff;
+    border: 0;
+    
+}
