@@ -2,7 +2,7 @@
     box-sizing : border-box;
 }
 body{
-    background-image: linear-gradient(90deg, rgb(219, 215, 221), rgb(219, 215, 221));
+    background-image: linear-gradient(90deg, rgb(151, 46, 204), rgb(151, 46, 204));
     font-family: 'Times New Roman', Times, serif;
     display : flex;
     align-items: center;
@@ -38,4 +38,13 @@ body{
     width: 50px;
     transition: transform 0.3s ease; 
 }
+.btn:focus, .input:focus{
+    outline: none;
+}
+.search.active .input{
+    width: 200px;
 
+}
+.search.active .btn{
+    transform: translateX(198px);
+}
