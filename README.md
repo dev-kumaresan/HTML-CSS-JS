@@ -8,5 +8,5 @@
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day3"> Hidden Search Widget</a> - </b>
 <a href="https://user-images.githubusercontent.com/100152824/163173418-5920e3d1-9d54-45cd-8238-f0ec6733f063.mp4">demo video</a>
 # Day 4 - (14/04/2022)
-<b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day3"> Split Landing Page | Scroll Animation</a> - </b>
-<a href="https://user-images.githubusercontent.com/100152824/163173418-5920e3d1-9d54-45cd-8238-f0ec6733f063.mp4">demo video</a>
+<b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day4"> Split Landing Page | Scroll Animation</a> - </b>
+<a href=" ">demo video</a>
