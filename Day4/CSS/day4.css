@@ -15,4 +15,14 @@ h1{
 }
 .box{
     background-color: purple;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height : 200px;
+    margin : 10px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px rgba(0,0,0,0.3);
 }
+
