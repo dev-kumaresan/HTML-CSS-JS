@@ -1,0 +1,14 @@
+*{
+    box-sizing : border-box;
+}
+body{
+    background-image: linear-gradient(90deg, rgb(151, 46, 204), rgb(151, 46, 204));
+    font-family: 'Times New Roman', Times, serif;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin : 0;
+    color:rgb(26, 23, 23);
+}
