@@ -9,6 +9,7 @@ body{
     justify-content: center;
     flex-direction: column;
     color:rgb(26, 23, 23);
+    overflow-x: hidden;
 }
 h1{
     margin : 10px;
