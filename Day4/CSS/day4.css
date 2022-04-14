@@ -10,4 +10,9 @@ body{
     height: 100vh;
     color:rgb(26, 23, 23);
 }
-
+h1{
+    margin : 10px;
+}
+.box{
+    background-color: purple;
+}
