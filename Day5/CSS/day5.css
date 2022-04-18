@@ -1,1 +1,13 @@
-
+*{
+    box-sizing : border-box;
+}
+body{
+    background-color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color:rgb(26, 23, 23);
+    overflow-x: hidden;
+}
