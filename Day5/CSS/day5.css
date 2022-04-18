@@ -8,7 +8,6 @@ body{
     display : flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
     height: 100vh;
     color: #fff;
     overflow-x: hidden;
@@ -23,11 +22,11 @@ body{
 .counter{
     font-size: 60px;
     margin-top: 10px;
-
+    margin-left: -20%;
 }
 @media (max-width:580px){
     body{
         flex-direction: column;
-        
+
     }
 }
