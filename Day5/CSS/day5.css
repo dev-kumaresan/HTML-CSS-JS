@@ -1,13 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 *{
     box-sizing : border-box;
 }
 body{
-    background-color: #fff;
-    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(148, 20, 142);
+    font-family: 'Roboto Mono', sans-serif;
     display : flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     color:rgb(26, 23, 23);
+    height: 100vh;
+    color: #fff;
     overflow-x: hidden;
+    margin: 0;
 }
