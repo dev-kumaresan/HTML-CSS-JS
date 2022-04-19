@@ -12,16 +12,15 @@ body{
     height: 100vh;
     overflow-x: hidden;
     margin: 0;
+    background-color: #000;
 }
 .bg{
     background : url('../img/my-github.png') no-repeat center center/cover;
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height : 100vh;
+    width: 60%;
+    height : 80%;
     z-index : -1;
-    filter : blur(70px);
+    filter : blur(0px);
 }
 .loading-text{
     font-size: 50px;
