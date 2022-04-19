@@ -1,1 +1,1 @@
-# Blurry Loading Image
+# Blurry Loading
