@@ -15,4 +15,8 @@
 <a href="https://user-images.githubusercontent.com/100152824/163761769-9ce0461d-4771-4aa4-aa58-3395b0aa9297.mp4">demo video</a>
 # Day 6 - (19/04/2022)
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day6"> Blurry Loading</a> - </b>
-<a href=" ">demo video</a>
+<a href="https://user-images.githubusercontent.com/100152824/163950088-70a976a1-082e-4b3f-b2cc-ad5140b37986.mp4">demo video</a>
+
+
+
+
