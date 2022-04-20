@@ -1,3 +1,4 @@
 git add .
 git push
-git commit -m "updated"
+read -p "Enter commit Message : " commit_message
+git commit -m $commit_message
