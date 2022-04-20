@@ -5,11 +5,9 @@ body{
     
     font-family: 'Times New Roman', Times, serif;
     display : flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    overflow-x: hidden;
     margin: 0;
     background-color: rgb(214, 212, 177);
 }
@@ -22,16 +20,18 @@ body{
     width : 340px;
 }
 .phone .content{
+    opacity: 0;
     object-fit: cover;
     position: absolute;
     top:0;
     left: 0;
-    height:calc(100%-60px);
-    width:100%;
+    height:120%;
+    width : 99.5%;
     transition: opacity 0.4s ease;
 }
 .phone .content.show{
     opacity : 1;
+    
 }
 nav{
     position: absolute;
