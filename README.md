@@ -18,7 +18,4 @@
 <a href="https://user-images.githubusercontent.com/100152824/163950088-70a976a1-082e-4b3f-b2cc-ad5140b37986.mp4">demo video</a>
 # Day 7 - (20/04/2022)
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day7"> Mobile Tab Navigation</a> - </b>
-<a href=" ">demo video</a>
-
-
-
+<a href="https://user-images.githubusercontent.com/100152824/164190912-97784234-e3f0-4b88-8ab7-3fe9cf07dbba.mp4">demo video</a>
