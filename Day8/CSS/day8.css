@@ -13,3 +13,18 @@ body{
    background-color: rgb(248, 197, 167);
    background-image: linear-gradient(to bottom,rgb(248, 197, 167) 0%,rgb(248, 197, 167) 50%,rgb(214, 133, 26) 50%,rgb(214, 133, 26) 100%);
 }
+nav{
+    background-color: #fff;
+    padding: 20px;
+    width : 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    transition: width 0.6s linear;
+}
+nav.active{
+    width : 350px;
+
+}
