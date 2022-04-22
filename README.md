@@ -21,4 +21,4 @@
 <a href="https://user-images.githubusercontent.com/100152824/164190912-97784234-e3f0-4b88-8ab7-3fe9cf07dbba.mp4">demo video</a>
 # Day 8 - (21/04/2022)
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day8"> Animated Navigation Bar</a> - </b>
-<a href=" ">demo video</a>
+<a href="https://user-images.githubusercontent.com/100152824/164398867-447c7cea-eb45-444d-8294-2ff5250c0e6f.mp4">demo video</a>
