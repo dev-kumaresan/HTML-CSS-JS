@@ -13,3 +13,51 @@ body{
    margin : 0;
    background-image: linear-gradient(to bottom,rgb(90, 89, 88) 0%,rgb(90, 89, 88) 50%,rgb(49,48,48) 50%,rgb(49, 48, 48) 100%);
 }
+img{
+    max-width : 100%;
+}
+.card{
+    box-shadow : 0 2px 10px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    width : 350px;
+}
+.card-header{
+    height : 200px;
+}
+.card-header img{
+    object-fit : cover;
+    height : 100%;
+    width : 100%;
+}
+.card-content{
+    background-color: #fff;
+    padding : 30px;
+}
+.card-title{
+    height : 20px;
+    margin:0;
+}
+.card-excerpt{
+    color : #777;
+    margin : 10px 0 20px;
+}
+.author{
+    display: flex;
+    margin-left: 30%;
+}
+.profile-img{
+    border-radius: 50%;
+    margin-top : -18%;
+    height : 10px;
+}
+.author-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 10px;
+    width: 100px;
+}
+.author-info small{
+    color : #aaa;
+}
