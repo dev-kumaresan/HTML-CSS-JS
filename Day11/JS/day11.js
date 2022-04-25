@@ -23,13 +23,15 @@ canvas.addEventListener('mousemove', (e) => {
         const x2 = e.offsetX
         const y2 = e.offsetY
         drawCircle(x2,y2)
+        drawLine(x,y,x2,y2)
+        x=x2
+        y=y2
     }
     
 })
 function drawCircle(x,y){
-    
     ctx.beginPath();
-    ctx.arc(75,75,50,0,Math.PI*2,true)
+    ctx.arc(x,y,size,0,Math.PI*2,true)
     ctx.fillStyle = color
     ctx.fill()
 }
