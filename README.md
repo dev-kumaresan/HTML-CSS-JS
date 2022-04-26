@@ -33,4 +33,4 @@
 <a href="https://user-images.githubusercontent.com/100152824/165062690-3e3edbc1-8f93-42b7-8e7e-b73b85beda65.mp4">demo video</a>
 # Day12-(26/04/2022)
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day12">Auto Text Effect</a> - </b>
-<a href="">demo video</a>
+<a href="https://user-images.githubusercontent.com/100152824/165286421-0bcd0441-0749-488b-b5b1-89eaf35d9974.mp4">demo video</a>
