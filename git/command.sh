@@ -1,7 +1,7 @@
 git add .
 git push
 read -p "Enter commit Message : " commit_message
-if [ commit_message -eq 'n' ] 
+if [ commit_message -eq "n" ] 
 then
   git commit -m "Auto-commit"
 else
