@@ -1,7 +1,8 @@
+cm='n'
 git add .
 git push
 read -p "Enter commit Message : " commit_message
-if [ commit_message == 3 ] 
+if [commit_message -eq cm] 
 then
   git commit -m "Auto-commit"
 else
