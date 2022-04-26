@@ -1,4 +1,4 @@
-cm='n'
+cm='nk'
 git add .
 git push
 read -p "Enter commit Message : " commit_message
