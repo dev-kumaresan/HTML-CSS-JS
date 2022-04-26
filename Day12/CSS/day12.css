@@ -10,12 +10,12 @@ body{
     height: 100vh;
     overflow: hidden;
     margin : 0;
-    background-color: rgb(53, 48, 48)
+    background-color: rgb(209, 205, 205)
 }
 div{
     position: absolute;
     bottom: 20px;
-    background: rgba(0,0,0,0.1);
+    background: rgb(109, 106, 106);
     padding: 10px 20px;
     font-size: 18px;
 
@@ -24,7 +24,7 @@ input{
     width: 50px;
     padding: 5px;
     font-size: 18px;
-    background-color: rgba(0,0,0,0.1);
+    background-color: #fff;
     border: none;
     text-align: center;
 }
