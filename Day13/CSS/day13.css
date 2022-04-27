@@ -12,6 +12,12 @@ body{
     color : #444;
     background-color: rgb(209, 205, 205)
 }
+h1{
+    color :rgb(232, 245, 226);
+    font-size: 10rem;
+    text-align: center;
+    opacity: 0.4;
+}
 form{
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     max-width: 100%;
