@@ -34,3 +34,6 @@
 # Day12-(26/04/2022)
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day12">Auto Text Effect</a> - </b>
 <a href="https://user-images.githubusercontent.com/100152824/165286421-0bcd0441-0749-488b-b5b1-89eaf35d9974.mp4">demo video</a>
+# Day13-(27/04/2022)
+<b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day13">To-do list app</a> - </b>
+<a href="">demo video</a>
