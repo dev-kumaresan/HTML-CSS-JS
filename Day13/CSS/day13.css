@@ -13,10 +13,10 @@ body{
     background-color: rgb(209, 205, 205)
 }
 h1{
-    color :rgb(232, 245, 226);
+    color :rgb(44, 114, 12);
     font-size: 10rem;
     text-align: center;
-    opacity: 0.4;
+    opacity: 0.15;
 }
 form{
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -57,5 +57,5 @@ small{
 
 }
 .input:focus{
-    outline-color: rgb(179,131,226);
+    outline-color: rgb(44, 114, 12);
 }
