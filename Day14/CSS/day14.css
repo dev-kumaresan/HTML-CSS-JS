@@ -13,7 +13,7 @@ body{
     position: fixed;
     top:1rem;
     right:1rem;
-    background-color: #626361;
+    background-color: #20360b;
     border: none;
     border-radius: 3px;
     padding: 0.5rem 1rem;
@@ -29,7 +29,7 @@ body{
     width : 400px;
 }
 .note .tools{
-    background-color: grey;
+    background-color: rgb(64, 71, 62);
     display : flex;
     justify-content: flex-end;
     padding : 0.5rem;
