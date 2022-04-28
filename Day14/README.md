@@ -1,2 +1,2 @@
 # Notes App -
-its also supports html
+support normal and markup(HTML) text.
