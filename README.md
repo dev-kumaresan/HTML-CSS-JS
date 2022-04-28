@@ -37,3 +37,6 @@
 # Day13-(27/04/2022)
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day13">To-do list app</a> - </b>
 <a href="https://user-images.githubusercontent.com/100152824/165482874-aeeaf464-3789-4ab4-8fb2-4de0e05bcd0f.mp4">demo video</a>
+# Day14-(28/04/2022)
+<b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day14">Notes app</a> - </b>
+<a href="https://user-images.githubusercontent.com/100152824/165725924-b90622de-d279-4ad3-8f8a-4edb16b0e12f.mp4">demo video</a>
