@@ -1,0 +1,30 @@
+*{
+    box-sizing : border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    display : flex;
+    margin : 0;
+    flex-wrap: wrap;
+    padding-top: 3rem;
+    background-color: black;
+} 
+.add{
+    position: fixed;
+    top:1rem;
+    right:1rem;
+    background-color: #626361;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem 1rem;
+    color:#fff;
+    cursor: pointer;
+
+}
+.note{
+    background-color: #fff;
+    box-shadow: 0 0 10px 4px rgba(0,0,0,0.1);
+    margin : 30px 20px;
+    height : 400px;
+    width : 400px;
+}
