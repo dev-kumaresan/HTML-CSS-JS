@@ -7,7 +7,7 @@ body{
     margin : 0;
     flex-wrap: wrap;
     padding-top: 3rem;
-    background-color: black;
+    background-color: rgba(248, 224, 11, 0.11);
 } 
 .add{
     position: fixed;
@@ -29,7 +29,7 @@ body{
     width : 400px;
 }
 .note .tools{
-    background-color: #9ec862;
+    background-color: grey;
     display : flex;
     justify-content: flex-end;
     padding : 0.5rem;
@@ -51,5 +51,5 @@ body{
     height:400px;
     width:100%;
     padding: 20px;
-    
+
 }
