@@ -42,9 +42,24 @@ body::before{
     top:-15vh;
     left:-15vw;
     transition: 0.4s ease;
-
+    z-index: 1;
 }
 .slide.active{
     opacity: 1;
 
+}
+.arrow{
+    position:fixed;
+    background-color: transparent;
+    padding: 20px;
+    font-size: 30px;
+    border: 2px solid orange;
+    top:50%;
+    transform: translateY(-50%);
+}
+.left-arrow{
+    left:calc(15vw - 65px);
+}
+.right-arrow{
+    right:calc(15vw - 65px);
 }
