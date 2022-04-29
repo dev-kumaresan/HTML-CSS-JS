@@ -56,10 +56,15 @@ body::before{
     border: 2px solid orange;
     top:50%;
     transform: translateY(-50%);
+    color: #fff;
+    cursor:pointer;
 }
 .left-arrow{
     left:calc(15vw - 65px);
 }
 .right-arrow{
     right:calc(15vw - 65px);
+}
+.arrow:focus{
+    outline: 0;
 }
