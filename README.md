@@ -41,7 +41,7 @@
 <b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day14">Notes app</a> - </b>
 <a href="https://user-images.githubusercontent.com/100152824/165725924-b90622de-d279-4ad3-8f8a-4edb16b0e12f.mp4">demo video</a>
 # Day15-(29/04/2022)
-<b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day15">Notes app</a> - </b>
+<b><li><a href="https://github.com/dev-kumaresan/HTML-CSS-JS/tree/main/Day15">Background Image Slider</a> - </b>
 <a href=" ">demo video</a>
 
 
