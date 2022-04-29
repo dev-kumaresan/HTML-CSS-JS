@@ -33,15 +33,15 @@ body::before{
 }
 .slide{
     opacity: 0;
-    height:100vh;
-    width:100vw;
+    height:50vh;
+    width:50vw;
     background-position: center center;
     background-size: cover;
     position: absolute;
-    top:-15vh;
-    left:-15vw;
+    top:25vh;
+    left:22.5vw;
     transition: 0.4s ease;
-    z-index: 1;
+    z-index: -1;
 }
 .slide.active{
     opacity: 1;
@@ -59,7 +59,7 @@ body::before{
     cursor:pointer;
 }
 .left-arrow{
-    left:calc(15vw - 65px);
+    left:calc(10vw - 65px);
 }
 .right-arrow{
     right:calc(15vw - 65px);
